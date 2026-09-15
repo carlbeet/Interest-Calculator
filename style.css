@@ -1,0 +1,42 @@
+body {
+    
+    background-color:rgb(235, 227, 217);
+    font-family: arial;
+    color: white;
+
+}
+h1{
+    background-color:rgb(235, 227, 217);
+    border-radius: 30px;
+    color:green;
+    font: verdana;
+
+}
+
+.maindiv {
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+button {
+
+    font-size: 25px;
+    border: transparent;
+    width: fit-content;
+    background-color: rgb(173, 218, 173);
+    border-radius: 30px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+button:hover {
+    cursor: pointer;
+    background-color: rgb(233, 250, 215);
+}
+
+
+
+
